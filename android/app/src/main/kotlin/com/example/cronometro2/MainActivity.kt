@@ -1,0 +1,5 @@
+package com.example.cronometro2
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
